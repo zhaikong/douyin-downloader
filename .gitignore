@@ -48,6 +48,7 @@ config/cookies.json
 # Editor / IDE local settings
 .claude/
 .idea/
-.vscode/
 .omc/
 .gstack/
+config.bat
+node_modules
